@@ -1,0 +1,18 @@
+export const routesName = {
+  login: '/',
+  dashboard: '/dashboard',
+  dashboardApp: '/dashboard/app',
+  memberManagement: '/dashboard/membermanagement',
+  trackPayout: '/dashboard/trackpayout',
+  winnerManagement: '/dashboard/winnermanagement',
+  quizCategoryManagement: '/dashboard/quizcategorymanagement',
+  quizQuestionManagement: '/dashboard/quizquestionmanagement',
+  quizTemplateManagement: '/dashboard/quiztemplatemanagement',
+  carouselImage: '/dashboard/carouselImage',
+  registerProcess: '/dashboard/registerProcess',
+  contentManagementSystem: '/dashboard/contentmanagementsystem',
+  faq: '/dashboard/faq',
+  video: '/dashboard/video',
+  point: '/dashboard/point',
+  myAccount: '/dashboard/myaccount',
+};
