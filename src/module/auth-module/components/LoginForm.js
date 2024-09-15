@@ -103,7 +103,7 @@ export default function LoginForm() {
                   disabled={!values.email || !values.password}
                   // onClick={handleClick}
                 >
-                  LoginTest
+                  Login
                 </Button>
               </div>
             </Form>
